@@ -1,3 +1,3 @@
-string what = "what";
+string what = "you looking at?";
 
 WriteLine(what);
