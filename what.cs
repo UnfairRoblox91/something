@@ -1,3 +1,3 @@
 string what = "you looking at?";
 
-WriteLine(what);
+Console.WriteLine(what);
